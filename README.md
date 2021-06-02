@@ -1,4 +1,4 @@
-# NLP_specialization_coursera
+# NLP specialization coursera
 
 **This repository contains the Notebooks used in the DeepLearning.ai 's NLP Specialization on Coursera.**
 
